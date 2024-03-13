@@ -1,8 +1,20 @@
 import { useTheme } from "next-themes";
+import { useEffect, useState } from "react";
 
 const Timeline = () => {
+  const [isLoading, setIsLoading] = useState(true);
   const { theme } = useTheme();
 
+  useEffect(() => {
+    if (theme !== undefined) {
+      setIsLoading(false);
+    }
+  }, [theme]);
+
+  if (isLoading) {
+    // Render a loading indicator or return null
+    return <div>Loading...</div>;
+  }
   const events = [
     { date: "2019", place: "Parma, Italy 🇮🇹", description: "Commenced studies in Computer, Electronic, and Telecommunication Engineering Bachelor's program at Università degli studi di Parma" },
     { date: "2021", place: "Valencia, Spain 🇪🇸", description: "Participated in an Erasmus semester at Universitat Politecnica de Valencia" },
