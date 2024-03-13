@@ -10,8 +10,8 @@ image: >
 ## Introduction
 **Brief premise**: the following considerations derive mainly from my _personal experience_ and comparisons with a small group of friends and colleagues who found themselves in the same situation.
 <br/>
-As a student nearing the end of my university journey, I believe it's important to share some reflections on a crucial phase of the French academic experience (but not limited to): the internship search. <br/>
-During the period from September 29, 2023, to February 28, 2024, I submitted a total of 161 internship applications (mostly in France). However, only 24 companies contacted me to proceed with the application (only 6 of them actually proposed me the job), while for the rest, I received only automatic rejection emails or, worse, ghosting. <br/>
+As a student approaching the end of my university journey, I believe it's important to share some reflections on a crucial phase of the French academic experience (but not limited to): the internship search. <br/>
+During the period from September 29, 2023, to February 28, 2024, I submitted a total of 161 internship applications (mostly in France). However, only 24 companies contacted me to proceed with the application (only 6 of them actually offered me the job), while for the rest, I received only automatic rejection emails or, worse, ghosting. <br/>
 
 After surpassing 50 applications, I felt ashamed to discuss it with my colleagues. However, after crossing the 100 mark, I realized that the situation was more common than I had thought. In fact, after various discussions, I discovered that in previous years, some people had surpassed 250 applications before finding an internship.
 
