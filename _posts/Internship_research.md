@@ -43,7 +43,7 @@ But the challenge doesn't end there. Modern society adds another layer of isolat
 A personal suggestion is to create different versions of your CV for different languages and send the one that matches the language used in the job offer. <br/>
 Various online platforms allow you to analyze your CV on different ATS, providing an indicative score related to specific job offers.
 ## The importance of training...
-After surviving the initial selection round, the Hunger Games continue with one (or more) technical interviews. It's crucial to study your CV thoroughly, ensuring you understand every detail and can discuss it confidently. Additionally, delve deep into the topics relevant to the job offer. While no one expects you to know everything about every topic, failing to answer a question could sometimes cost you the position. Regularly practicing programming exercises, such as those on LeetCode, is essential to maintain problem-solving skills and reinforce technical knowledge.<br/>
+After surviving the initial selection round, the Hunger Games continue with one (or more) technical interviews. It's crucial to study your CV thoroughly, ensuring you understand every detail and can discuss it confidently. Additionally, delve deep into the topics relevant to the job offer. While no one expects you to know everything about every topic, failing to answer a question could sometimes cost you the position (🙂). Regularly practicing programming exercises, such as those on LeetCode, is essential to maintain problem-solving skills and reinforce technical knowledge.<br/>
 One strategy I started late but found beneficial was keeping a record of questions asked in previous interviews.
 
 ## ...and of the organisation
