@@ -9,7 +9,7 @@
 /* Headings */
 
 .markdown-class h1 {
-  @apply mt-5 text-6xl;
+  @apply mt-5 text-3xl;
 }
 .markdown-class h2 {
   @apply mt-5 text-2xl;
@@ -32,7 +32,7 @@
 }
 
 .markdown-class p {
-  @apply mt-2 opacity-80 leading-7 font-normal text-sm;
+  @apply mt-2 opacity-80 leading-7 font-normal text-base;
 }
 
 .markdown-class strong {
