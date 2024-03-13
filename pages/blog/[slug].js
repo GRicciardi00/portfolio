@@ -11,6 +11,10 @@ import BlogEditor from "../../components/BlogEditor";
 import { useRouter } from "next/router";
 import Cursor from "../../components/Cursor";
 import data from "../../data/portfolio.json";
+const preprocessContent = (content) => {
+  // Replace <br/> with newline characters (\n)
+  return content.replace(/<br\s*\/?>/gi, "\n");
+};
 
 const BlogPost = ({ post }) => {
   const [showEditor, setShowEditor] = useState(false);
@@ -44,18 +48,18 @@ const BlogPost = ({ post }) => {
           ></img>
           <h1
             ref={textOne}
-            className="mt-10 text-4xl mob:text-2xl laptop:text-6xl text-bold"
+            className="ml-3 mt-10 text-4xl mob:text-2xl laptop:text-6xl text-bold"
           >
             {post.title}
           </h1>
           <h2
             ref={textTwo}
-            className="mt-2 text-xl max-w-4xl text-darkgray opacity-50"
+            className="ml-3 mt-2 text-xl max-w-4xl text-darkgray opacity-50"
           >
             {post.tagline}
           </h2>
         </div>
-        <ContentSection content={post.content}></ContentSection>
+        <ContentSection content={preprocessContent(post.content)}></ContentSection>
         <Footer />
       </div>
       {process.env.NODE_ENV === "development" && (
