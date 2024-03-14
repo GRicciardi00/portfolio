@@ -23,14 +23,14 @@ During these six months of searching, I wondered what could be the causes of thi
 
  - **Limited knowledge of the French language**, although English is the most widely used language in the tech world, knowing the language of the country where you are seeking the internship can be a significant advantage over other candidates. In this competitive landscape, even the slightest advantage can be meaningful.
 
- - **Lack of professional experience**, this is because I spent my academic years solely focusing on passing exams, albeit achieving decent results. Additionally, the organization of exam sessions in Italy rarely allows for summer internships. The problem is that having good grades is not enough to stand out in the sea of candidates; paradoxically, having prior experiences before applying for an internship truly sets one apart from the rest of the candidates (like me).
+ - **Lack of professional experience**, this is because I spent my academic years solely focusing on passing exams, although I achieved decent results. Additionally, the organization of exam sessions in Italy rarely allows for summer internships. The problem is that _having good grades is not enough_ to stand out in the sea of candidates; paradoxically, having prior experiences before applying for an internship truly sets one apart from the rest of the candidates (like me).
 ![meme](https://pandwarf.com/wp/wp-content/uploads/2017/07/Internship-meme.jpg)
 
 Despite the challenges mentioned earlier, I've secured an upcoming opportunity. Stay hopeful and continue with your efforts, you will get it! <br/>
 If you are still searching for an internship or have encountered difficulties in doing so, here are some lessons I have learned from this exhausting experience.
 
 ## Failure teaches success
-**The outcome of an interview does not determine your worth**; it may seem like a cliché (yes, I've received it multiple times in automatic rejection emails), but the sooner we understand it, the less demotivated we will be during this long journey.<br/>
+**The outcome of an interview does not determine your worth**; it may seem like a cliché (yes, I've received this sentence multiple times in automatic rejection emails), but the sooner we understand it, the less demotivated we will be during this long journey.<br/>
 
 After 4 months, I began to feel nauseous just by reading the previews of automatically generated emails. I started to doubt myself and feel emotionally drained. However, the real difference lies in considering a failed interview as an opportunity to seek further clarification on what went wrong from those who interviewed us and to learn as much as possible from the mistakes made.<br/>
 
@@ -42,8 +42,9 @@ Nowadays, LinkedIn boasts approximately 830 million registered users worldwide, 
 But the challenge doesn't end there. Modern society adds another layer of isolation. It might surprise you to know that your resume is unlikely to be evaluated by a human being but rather analyzed by an _ATS_ (Applicant Tracking Software), especially if it's a large company. Therefore, it becomes crucial to maximize the score of our CV. Some useful tips found around the web include: using LaTeX, adopting a single-column format, keeping the document to one page, and tailoring the CV as closely as possible to the job offer, using the same keywords.<br/>
 A personal suggestion is to create different versions of your CV for different languages and send the one that matches the language used in the job offer. <br/>
 Various online platforms allow you to analyze your CV on different ATS, providing an indicative score related to specific job offers.
+
 ## The importance of training...
-After surviving the initial selection round, the Hunger Games continue with one (or more) technical interviews. It's crucial to study your CV thoroughly, ensuring you understand every detail and can discuss it confidently. Additionally, delve deep into the topics relevant to the job offer. While no one expects you to know everything about every topic, failing to answer a question could sometimes cost you the position (🙂). Regularly practicing programming exercises, such as those on LeetCode, is essential to maintain problem-solving skills and reinforce technical knowledge.<br/>
+After surviving the initial selection round, the Hunger Games continue with one (or more) **technical interviews**. It's crucial to study your CV thoroughly, ensuring you understand every detail and can discuss it confidently. Additionally, delve deep into the topics relevant to the job offer. While no one expects you to know everything about every topic, failing to answer a question could sometimes cost you the position (🙂). Regularly practicing programming exercises, such as those on LeetCode, is essential to maintain problem-solving skills and reinforce technical knowledge.<br/>
 One strategy I started late but found beneficial was keeping a record of questions asked in previous interviews.
 
 ## ...and of the organisation
