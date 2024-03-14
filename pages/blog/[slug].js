@@ -60,7 +60,6 @@ const BlogPost = ({ post }) => {
           </h2>
         </div>
         <ContentSection content={preprocessContent(post.content)}></ContentSection>
-        <Footer />
       </div>
       {process.env.NODE_ENV === "development" && (
         <div className="fixed bottom-6 right-6">
