@@ -1,6 +1,6 @@
 ### Description
 
-Portfolio layout taken from: [https://github.com/chetanverma16/react-portfolio-template]
+Portfolio layout taken from: [here](https://github.com/chetanverma16/react-portfolio-template)
 
 
 I would be very happy to review your PRs and all the awesome things that you can improve on this portfolio.
